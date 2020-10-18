@@ -1,0 +1,16 @@
+{
+    "name": "jul/challenge_composer",
+    "description": "WCS challenge composer",
+    "authors": [
+        {
+            "name": "JulieRebeyrolle",
+            "email": "julie.rebeyrolle@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {}
+}
