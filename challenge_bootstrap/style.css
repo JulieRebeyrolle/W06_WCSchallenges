@@ -1,0 +1,28 @@
+.container {
+    display: block;
+    margin: auto;
+}
+
+.row {
+    height: 40px;
+
+}
+.grey {
+    background-color: #2b2b2b;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orangered;
+}
+
+.black {
+    background-color: black;
+}
+
+h1 {
+    padding: 24px;
+}
